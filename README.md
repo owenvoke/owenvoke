@@ -1,6 +1,6 @@
 Hi there, I'm a full-stack web developer living in Bristol, UK.
 
-- I currently work at [@deltanet][]
+- I currently work at [@worksome][]
 - I use PHP, JavaScript, and C# daily
 - I'm mostly active within the Laravel community
 - Working on [@pestphp][], [@laravel-zero][], [@tldr-pages][], [@parceltrap][], and more.
@@ -12,7 +12,7 @@ Check out [voke.dev][] for more information.
 
 ![GitHub Statistics (widget provided by GitHub README Stats)][ico-statistics]
 
-[@deltanet]: https://github.com/deltanet
+[@worksome]: https://github.com/worksome
 [@pestphp]: https://github.com/pestphp
 [@laravel-zero]: https://github.com/laravel-zero
 [@tldr-pages]: https://github.com/tldr-pages
