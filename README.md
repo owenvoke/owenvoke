@@ -20,5 +20,3 @@ Check out [voke.dev][] for more information.
 [twitter]: https://twitter.com/owenvoke
 [voke.dev]: https://voke.dev
 [ico-statistics]: https://github-readme-stats.vercel.app/api?username=owenvoke&count_private=true&hide_title=true&show_icons=true&hide_border=true&disable_animations=true
-
-<a href="https://fosstodon.org/@owenvoke" rel="me nofollow noreferrer" class="d-none"></a>
