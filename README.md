@@ -1,7 +1,7 @@
 Hi there, I'm a full-stack web developer living in Bristol, UK.
 
-- I currently work at [@worksome][]
-- I use PHP, JavaScript, and C# daily
+- I currently work at [@worksome][] as a Senior Backend Engineer
+- I use PHP and JavaScript daily
 - I'm mostly active within the Laravel community
 - Working on [@pestphp][], [@laravel-zero][], [@tldr-pages][], [@parceltrap][], and more.
 - Contact me on [Twitter][], or via email
