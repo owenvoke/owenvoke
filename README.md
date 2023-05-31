@@ -6,7 +6,7 @@ Hi there, I'm a full-stack web developer living in Bristol, UK.
 - Working on [@pestphp][], [@laravel-zero][], [@tldr-pages][], [@parceltrap][], and more.
 - Contact me on [Twitter][], or via email
 
-I'm interested in PHP and Laravel, Web3 and cryptocurrencies, and anything tech.
+I'm interested in PHP, Laravel, Web3, cryptocurrencies, and anything tech.
 
 Check out [voke.dev][] for more information.
 
@@ -19,4 +19,4 @@ Check out [voke.dev][] for more information.
 [@parceltrap]: https://github.com/parceltrap
 [twitter]: https://twitter.com/owenvoke
 [voke.dev]: https://voke.dev
-[ico-statistics]: https://github-readme-stats.vercel.app/api?username=owenvoke&count_private=true&hide_title=true&show_icons=true&hide_border=true&disable_animations=true
+[ico-statistics]: https://github-readme-stats.vercel.app/api?username=owenvoke&count_private=true&hide_title=true&show_icons=true&hide_border=true&disable_animations=true&theme=transparent
